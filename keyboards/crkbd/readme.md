@@ -21,7 +21,7 @@ Flash example for this keyboard of v4:
 
 ```sh
 qmk flash -kb crkbd/rev4 -km default
-```
+```dfgfdgsdfgs
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
@@ -58,6 +58,7 @@ And in your `config.h` file, add the following:
 #    define RGB_MATRIX_VAL_STEP 8
 #    define RGB_MATRIX_SPD_STEP 10
 
+sdfdsgdfsfds
 /* Enable the animations you want/need.  You may need to enable only a small number of these because       *
  * they take up a lot of space.  Enable and confirm that you can still successfully compile your firmware. */
 // RGB Matrix Animation modes. Explicitly enabled
